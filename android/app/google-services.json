@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989280928774",
+    "project_id": "devstudio-food-delivery",
+    "storage_bucket": "devstudio-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989280928774:android:8a7bd1eca0825caadaaf87",
+        "android_client_info": {
+          "package_name": "com.devstudio.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiJnTsbvDKzy36OAq2bRN7QG_n8Lx0RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989280928774:android:abdb56d34cf91e74daaf87",
+        "android_client_info": {
+          "package_name": "com.devstudio.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiJnTsbvDKzy36OAq2bRN7QG_n8Lx0RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
