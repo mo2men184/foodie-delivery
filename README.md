@@ -17,7 +17,7 @@ Welcome to **Foodie Delivery**, a sleek and modern Flutter UI project for a food
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/foodie_delivery/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mo2men184/foodie_delivery/issues).
 
 ## 📝 License
 
